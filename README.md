@@ -2,7 +2,6 @@
 
 - 🔭 Estudante de Java Jr através da Generation e cursando Análise e desenvolvimento de sistemas.
 - 😄 Pronouns: Ela/Dela
-- ⚡ Fun fact: Atleta
 
 <div align="center">
   <a href="https://github.com/sandymartins">
