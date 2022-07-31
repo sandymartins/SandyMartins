@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/sandymartins">
-  <img align="left" alt="Sandy-pic" height="280" style="border-radius:50px;" src="https://user-images.githubusercontent.com/52469840/181825895-33c5ea49-9596-4674-a6b3-8870315e9c8e.png">
+  <img align="left" alt="Sandy-pic" height="260" style="border-radius:50px;" src="https://user-images.githubusercontent.com/52469840/181825895-33c5ea49-9596-4674-a6b3-8870315e9c8e.png">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SandyMartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandyMartins&layout=compact&langs_count=7&theme=dracula"/>
 </div>
