@@ -19,10 +19,8 @@ Eu amo o processo de desenvolvimento de sites criativos. Adoro os desafios de en
 </div>
 
 ## 📈 GitHub Stats 
-<div align="center">
-  <a href="https://github.com/sandymartins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SandyMartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+[![Estatísticas do github do Anurag](https://github-readme-stats.vercel.app/api?username=sandymartins&show_icons=true&theme=highcontrast)](https://github.com/sandymartins)
+
 
 ## 👨‍💻 Habilidades Técnicas
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -43,10 +41,5 @@ Eu amo o processo de desenvolvimento de sites criativos. Adoro os desafios de en
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-
-<div align="center">
-  <a href="https://github.com/sandymartins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandyMartins&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 ![snake gif](https://github.com/sandymartins/sandymartins/blob/output/github-contribution-grid-snake.svg)
