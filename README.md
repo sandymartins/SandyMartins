@@ -9,7 +9,8 @@ Olá, eu sou a <a href="https://www.linkedin.com/in/sandy-martins-10aa82168/" ta
  Desenvolvedora Java Full-Stack Jr. 💻 e Designer 🎨! 
 </h2>
 
-Eu amo o processo de desenvolvimento de sites criativos. Adoro os desafios de encontrar esconderijos e gosto de me conectar com as pessoas. Aprender como as pessoas escondem coisas e onde as pessoas provavelmente olharão é um hobbie.
+Eu amo o processo de desenvolvimento de sites criativos e gosto de me comunicar com as pessoas. 
+Adoro os desafios de encontrar esconderijos, aprender como as pessoas escondem coisas e onde as pessoas provavelmente olharão é um hobbie. 
 
 ### 🤝 Se conecte comigo:
  <div> 
