@@ -17,8 +17,13 @@ Adoro os desafios de encontrar esconderijos, aprender como as pessoas escondem c
 ## 📈 GitHub Stats 
 [![Estatísticas do github do Anurag](https://github-readme-stats.vercel.app/api?username=sandymartins&show_icons=true&theme=highcontrast)](https://github.com/sandymartins)
 
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width=80/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=80/>
+</div>
 
 ## 👨‍💻 Habilidades Técnicas
+    
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
