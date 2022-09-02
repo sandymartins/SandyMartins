@@ -1,9 +1,9 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/sandy-martins-10aa82168/" target="_blanck" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/52469840/187246674-9b4e8923-20de-4547-810c-a846c7c9eb7f.jpg" alt="Banner Sandy Martins"></a></p>
 
-<h3 align="center">
-Olá, eu sou a <a href="https://www.linkedin.com/in/sandy-martins-10aa82168/" targe="_blank" rel="noreferrer">Sandy</a> 👋
-</h3>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Aclonica&size=50&duration=2000&pause=1000&width=650&height=152&lines=Ol%C3%A1%2C+eu+sou+a+Sandy+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</p>
 
 <h2 align="center">
  Desenvolvedora Java Full-Stack Jr. 💻 e Designer 🎨! 
