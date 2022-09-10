@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/sandy-martins-10aa82168/" target="_blanck" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/52469840/189486843-0de12e52-bbd7-4e9a-bd23-457e8c08d0a8.png" alt="Banner Sandy Martins"></a></p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Aclonica&duration=2000&pause=300&color=F7F7F7&background=00000031&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Sandy+%E2%9A%A1;Desenvolvedora+FullStack+Java+Jr.+%F0%9F%92%BB;Designer+%F0%9F%8E%A8" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&size=30&duration=3000&pause=500&color=FFFCEC&background=F82470E1&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+a+Sandy+%F0%9F%91%8B;Desenvolvedora+FullStack+Java+Jr.%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Designer+%F0%9F%8E%A8" alt="Typing SVG" /></a>
 
 Eu amo o processo de desenvolvimento de sites criativos e gosto de me comunicar com as pessoas. 
 Adoro os desafios de encontrar esconderijos, aprender como as pessoas escondem coisas e onde as pessoas provavelmente olharão é um hobbie. 
