@@ -17,6 +17,7 @@ Adoro os desafios de encontrar esconderijos, aprender como as pessoas escondem c
 </div>
 
 <h2>📈 GitHub Stats</h2> 
+
 [![Estatísticas do github do Anurag](https://github-readme-stats.vercel.app/api?username=sandymartins&show_icons=true&theme=highcontrast)](https://github.com/sandymartins)
 
 <h2>👨‍💻 Habilidades Técnicas</h2>
