@@ -7,8 +7,8 @@
 Eu amo o processo de desenvolvimento de sites criativos e gosto de me comunicar com as pessoas. 
 Adoro os desafios de encontrar esconderijos, aprender como as pessoas escondem coisas e onde as pessoas provavelmente olharão é um hobbie. 
 
-### 🤝 Se conecte comigo:
-https://linktr.ee/sandymartins
+<h2>🤝 Se conecte comigo:</h2>
+<img src="https://user-images.githubusercontent.com/52469840/193809017-acbe0c93-0eb2-4532-bf33-87031c61c3d4.png" alt="QR Code" width="10%">
 
  <div> 
   <a href="https://www.linkedin.com/in/sandy-martins-10aa82168/"_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
@@ -16,10 +16,10 @@ https://linktr.ee/sandymartins
   <a href = "mailto:sandycris.luar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-## 📈 GitHub Stats 
+<h2>📈 GitHub Stats</h2> 
 [![Estatísticas do github do Anurag](https://github-readme-stats.vercel.app/api?username=sandymartins&show_icons=true&theme=highcontrast)](https://github.com/sandymartins)
 
-## 👨‍💻 Habilidades Técnicas
+<h2>👨‍💻 Habilidades Técnicas</h2>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width=50/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width=50/>
