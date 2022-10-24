@@ -7,6 +7,12 @@
 Eu amo o processo de desenvolvimento de sites criativos e gosto de me comunicar com as pessoas. 
 Adoro os desafios de encontrar esconderijos, aprender como as pessoas escondem coisas e onde as pessoas provavelmente olharão é um hobbie. 
 
+ 
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
+
+
+
+ 
 <h2>🤝 Se conecte comigo:</h2>
 <img src="https://user-images.githubusercontent.com/52469840/193809017-acbe0c93-0eb2-4532-bf33-87031c61c3d4.png" alt="QR Code" width="10%">
 
