@@ -21,7 +21,7 @@ Adoro os desafios de encontrar esconderijos, aprender como as pessoas escondem c
 
 [![Estatísticas do github do Anurag](https://github-readme-stats.vercel.app/api?username=sandymartins&show_icons=true&theme=highcontrast)](https://github.com/sandymartins)
 
-<h2>👨‍💻 Habilidades Técnicas</h2>
+<h2>👨‍💻 Hard Skills</h2>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width=50/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width=50/>
